@@ -24,6 +24,7 @@ This project demonstrates **end-to-end machine learning engineering skills**, in
 
 ## Project Structure
 
+```text
 .
 ├── main.py                     # Experiment entry point
 ├── scripts/
@@ -33,8 +34,8 @@ This project demonstrates **end-to-end machine learning engineering skills**, in
 │   ├── model_architectures.py  # Neural network architectures
 │   ├── train_utils.py          # Training and validation logic
 │   └── evaluation_metrics.py   # Evaluation metrics
+```
 
----
 
 ## Technical Stack
 
